@@ -1,0 +1,49 @@
+// APPUNTI SUL TEMA
+
+// DA Events.json
+
+ {
+      "name": "Prima Guerra Mondiale",
+		"triggerOnce": true,
+      "text": "I nazionalismi e le tensioni covate per decenni sono infine esplosi dopo l’assassinio dell’erede al trono di un impero secolare. Il mondo si è diviso in due blocchi pronti a scatenare una guerra senza precedenti, una carneficina come l’umanità non ha mai conosciuto. Anche restare neutrali potrebbe significare rovina. Cosa farai per assicurare un futuro al tuo popolo?",
+      "choices": [
+        { "text": "Unisciti all'Alleanza",
+          "uniques": ["Start war with [Blocco B]"]},
+        { "text": "Unisciti al'Intesa",
+          "uniques": ["Start war with [Blocco A]"]},
+        { "text": "Mantieni la neutralità",
+          "uniques": ["[+10 Happiness] [in all cities] <for [15] turns>", "Change opinion of all other civilizations by [-30]"]}
+      ]
+    },
+    {
+      "name": "Seconda Guerra Mondiale",
+		"triggerOnce": true,
+      "text": "Le ferite della Grande Guerra non si sono mai rimarginate. Dalle macerie è sorta una nuova minaccia: ideologie inconciliabili e una sete di dominio che divora il mondo. Le tensioni sono divenute insostenibili, e il baratro di un nuovo conflitto si spalanca. Sarà la guerra più vasta e distruttiva che l’umanità abbia mai visto. Come guiderai il tuo popolo in questa ora oscura?",
+      "choices": [
+        { "text": "Unisciti al Patto di Accaio",
+          "uniques": ["Start war with [Blocco B]"]},
+        { "text": "Unisciti all'Alleanza Internazionale",
+          "uniques": ["Start war with [Blocco A]"]},
+        { "text": "Rimani neutrale",
+          "uniques": ["[+15 Happiness] [in all cities] <for [15] turns>", "Change opinion of all other civilizations by [-30]"]}
+      ]
+    },
+    {
+      "name": "Terza Guerra Mondiale",
+		"triggerOnce": true,
+      "text": "Le immani devastazioni di due guerre mondiali, e soprattutto gli orrori senza pari della seconda, avrebbero dovuto insegnare all’Umanità il valore eterno della pace. E invece, accecati da paura e ambizione, gli uomini hanno varcato l’ultima soglia: il mondo è sull’orlo di una guerra atomica. Ogni scelta ora può segnare la vita o l’estinzione della tua civiltà. Cosa farai?",
+      "choices": [
+        { "text": "Unisciti al Blocco Alfa",
+          "uniques": ["Start war with [Blocco B]"]},
+        { "text": "Unisciti al Blocco Omega",
+          "uniques": ["Start war with [Blocco A]"]},
+        { "text": "Rimani neutrale",
+          "uniques": ["[+20 Happiness] [in all cities] <for [20] turns>", "Change opinion of all other civilizations by [-30]"]}
+      ]
+    }
+
+// DA GlobalUniques.json
+
+"Triggers a [Prima Guerra Mondiale] event <for [Major] Civilizations> <upon turn end> <with [5]% chance> <starting from the [Modern era]> <before the [Atomic era]>",
+    "Triggers a [Seconda Guerra Mondiale] event <for [Major] Civilizations> <upon turn end> <with [12]% chance> <starting from the [Atomic era]> <before the [Information era]>",
+    "Triggers a [Terza Guerra Mondiale] event <for [Major] Civilizations> <upon turn end> <with [5]% chance> <starting from the [Information era]>"
