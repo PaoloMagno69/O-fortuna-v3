@@ -50,18 +50,18 @@
 		"Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
          // -------------------------------------------------
          // O FORTUNA
-        "Triggers a [Alluvione Locale] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
-         "Triggers a [Siccità Moderata] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
-         "Triggers a [Tempesta Devastante] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
+        "Triggers a [Alluvione Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
+         "Triggers a [Siccità Moderata 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
+         "Triggers a [Tempesta Devastante 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [10]>",
 
-         "Triggers a [Invasione di Cavallette] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
-         "Triggers a [Grande Alluvione] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
-          "Triggers a [Epidemia Locale] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
-          "Triggers a [Grande Siccità] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
+         "Triggers a [Invasione di Cavallette 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
+         "Triggers a [Grande Alluvione 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
+          "Triggers a [Epidemia Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
+          "Triggers a [Grande Siccità 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
 
-          "Triggers a [Eruzione Vulcanica] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns>",
-          "Triggers a [Grande Terremoto] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns>",
-          "Triggers a [Tsunami Devastante] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns>",
+          "Triggers a [Eruzione Vulcanica 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [7] turns>",
+          "Triggers a [Grande Terremoto 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [7] turns>",
+          "Triggers a [Tsunami Devastante 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [7] turns>",
 
            "Triggers a [Peste Globale] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <before the [Industrial era]>",
            "Triggers a [Pandemia di Influenza] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Industrial era]> <before the [Modern era]>",
