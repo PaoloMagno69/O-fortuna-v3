@@ -1863,31 +1863,121 @@
       ]
     },
     {
-      "name": "Colpo di Stato",
+      "name": "Colpo di Stato 2",
       "text": "Un gruppo di generali tenta di instaurare un regime autoritario.",
       "choices": [
         { "text": "Accetta il regime per garantire stabilità, dopo qualche anno finirà per inerzia",
-          "uniques": ["[+50 Gold] <for [20] turns>", "[-6 Happiness] [in all cities] <for [20] turns>"]},
+          "uniques": ["[+20 Gold] <for [20] turns>", "[-6 Happiness] [in all cities] <for [20] turns>"]},
+        { "text": "Opponiti con tutte le forze! La Libertà è sacra!",
+          "uniques": ["Rebel units may spawn <for [10] turns>", "[+6 Happiness] [in all cities] <for [20] turns>"]}
+      ]
+    },
+	{
+      "name": "Colpo di Stato 3-4",
+      "text": "Un gruppo di generali tenta di instaurare un regime autoritario.",
+      "choices": [
+        { "text": "Accetta il regime per garantire stabilità, dopo qualche anno finirà per inerzia",
+          "uniques": ["[+70 Gold] <for [20] turns>", "[-6 Happiness] [in all cities] <for [20] turns>"]},
+        { "text": "Opponiti con tutte le forze! La Libertà è sacra!",
+          "uniques": ["Rebel units may spawn <for [10] turns>", "[+6 Happiness] [in all cities] <for [20] turns>"]}
+      ]
+    },
+	{
+      "name": "Colpo di Stato 5-6",
+      "text": "Un gruppo di generali tenta di instaurare un regime autoritario.",
+      "choices": [
+        { "text": "Accetta il regime per garantire stabilità, dopo qualche anno finirà per inerzia",
+          "uniques": ["[+200 Gold] <for [20] turns>", "[-6 Happiness] [in all cities] <for [20] turns>"]},
+        { "text": "Opponiti con tutte le forze! La Libertà è sacra!",
+          "uniques": ["Rebel units may spawn <for [10] turns>", "[+6 Happiness] [in all cities] <for [20] turns>"]}
+      ]
+    },
+	{
+      "name": "Colpo di Stato 7-8",
+      "text": "Un gruppo di generali tenta di instaurare un regime autoritario.",
+      "choices": [
+        { "text": "Accetta il regime per garantire stabilità, dopo qualche anno finirà per inerzia",
+          "uniques": ["[+500 Gold] <for [20] turns>", "[-6 Happiness] [in all cities] <for [20] turns>"]},
         { "text": "Opponiti con tutte le forze! La Libertà è sacra!",
           "uniques": ["Rebel units may spawn <for [10] turns>", "[+6 Happiness] [in all cities] <for [20] turns>"]}
       ]
     },
     {
-      "name": "Corruzione Scoperta",
+      "name": "Corruzione Scoperta 2",
       "text": "Uno scandalo di corruzione scuote il governo.",
       "choices": [
         { "text": "Punisci i colpevoli",
-          "uniques": ["Gain [-80] [Gold]", "[+3 Happiness] [in all cities] <for [8] turns>"]},
+          "uniques": ["Gain [-60] [Gold]", "[+3 Happiness] [in all cities] <for [8] turns>"]},
+        { "text": "Insabbia tutto",
+          "uniques": ["[-3 Happiness] [in all cities] <for [12] turns>"]}
+      ]
+    },
+	{
+      "name": "Corruzione Scoperta 3-4",
+      "text": "Uno scandalo di corruzione scuote il governo.",
+      "choices": [
+        { "text": "Punisci i colpevoli",
+          "uniques": ["Gain [-210] [Gold]", "[+3 Happiness] [in all cities] <for [8] turns>"]},
+        { "text": "Insabbia tutto",
+          "uniques": ["[-3 Happiness] [in all cities] <for [12] turns>"]}
+      ]
+    },
+	{
+      "name": "Corruzione Scoperta 5-6",
+      "text": "Uno scandalo di corruzione scuote il governo.",
+      "choices": [
+        { "text": "Punisci i colpevoli",
+          "uniques": ["Gain [-600] [Gold]", "[+3 Happiness] [in all cities] <for [8] turns>"]},
+        { "text": "Insabbia tutto",
+          "uniques": ["[-3 Happiness] [in all cities] <for [12] turns>"]}
+      ]
+    },
+	{
+      "name": "Corruzione Scoperta 7-8",
+      "text": "Uno scandalo di corruzione scuote il governo.",
+      "choices": [
+        { "text": "Punisci i colpevoli",
+          "uniques": ["Gain [-1500] [Gold]", "[+3 Happiness] [in all cities] <for [8] turns>"]},
         { "text": "Insabbia tutto",
           "uniques": ["[-3 Happiness] [in all cities] <for [12] turns>"]}
       ]
     },
     {
-      "name": "Crisi di Successione",
+      "name": "Crisi di Successione 2",
       "text": "Alla morte di un leader, scoppia una lotta di potere.",
       "choices": [
         { "text": "Mediazione costosa",
-          "uniques": ["Gain [-150] [Gold]", "[+2 Happiness] [in all cities] <for [10] turns>"]},
+          "uniques": ["Gain [-50] [Gold]", "[+2 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Lascia che le fazioni combattano",
+          "uniques": ["Rebel units may spawn <for [10] turns>", "[-2 Happiness] [in all cities] <for [8] turns>"]}
+      ]
+    },
+	{
+      "name": "Crisi di Successione 3-4",
+      "text": "Alla morte di un leader, scoppia una lotta di potere.",
+      "choices": [
+        { "text": "Mediazione costosa",
+          "uniques": ["Gain [-180] [Gold]", "[+2 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Lascia che le fazioni combattano",
+          "uniques": ["Rebel units may spawn <for [10] turns>", "[-2 Happiness] [in all cities] <for [8] turns>"]}
+      ]
+    },
+	{
+      "name": "Crisi di Successione 5-6",
+      "text": "Alla morte di un leader, scoppia una lotta di potere.",
+      "choices": [
+        { "text": "Mediazione costosa",
+          "uniques": ["Gain [-500] [Gold]", "[+2 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Lascia che le fazioni combattano",
+          "uniques": ["Rebel units may spawn <for [10] turns>", "[-2 Happiness] [in all cities] <for [8] turns>"]}
+      ]
+    },
+	{
+      "name": "Crisi di Successione 7-8",
+      "text": "Alla morte di un leader, scoppia una lotta di potere.",
+      "choices": [
+        { "text": "Mediazione costosa",
+          "uniques": ["Gain [-1350] [Gold]", "[+2 Happiness] [in all cities] <for [10] turns>"]},
         { "text": "Lascia che le fazioni combattano",
           "uniques": ["Rebel units may spawn <for [10] turns>", "[-2 Happiness] [in all cities] <for [8] turns>"]}
       ]
@@ -1898,7 +1988,7 @@
       "text": "Due fazioni si dichiarano vincitrici delle elezioni.",
       "choices": [
         { "text": "Riconteggio ufficiale",
-          "uniques": ["Gain [-200] [Gold]", "[+4 Happiness] [in all cities] <for [12] turns>"]},
+          "uniques": ["Gain [-5000] [Gold]", "[+4 Happiness] [in all cities] <for [12] turns>"]},
         { "text": "Repressione violenta",
           "uniques": ["[-5 Happiness] [in all cities] <for [15] turns>", "[+25]% [Production] [in all cities] <for [10] turns>"]}
       ]
@@ -1908,7 +1998,7 @@
       "text": "I lavoratori si fermano chiedendo migliori condizioni.",
       "choices": [
         { "text": "Aumenta i salari",
-          "uniques": ["Gain [-500] [Gold]", "[+5 Happiness] [in all cities] <for [12] turns>"]},
+          "uniques": ["Gain [-3000] [Gold]", "[+5 Happiness] [in all cities] <for [12] turns>"]},
         { "text": "Invia la polizia",
           "uniques": ["[-4 Happiness] [in all cities] <for [10] turns>", "[+5]% [Production] [in all cities] <for [8] turns>"]}
       ]
@@ -1971,7 +2061,7 @@
       "text": "Le idee rivoluzionarie si diffondono. Concedi riforme o reprimi?",
       "choices": [
         { "text": "Concedi riforme",
-          "uniques": ["Gain [-1000] [Gold]", "[+8 Happiness] [in all cities] <for [20] turns>"]},
+          "uniques": ["Gain [-3000] [Gold]", "[+8 Happiness] [in all cities] <for [20] turns>"]},
         { "text": "Reprimi con la forza",
           "uniques": ["[-8 Happiness] [in all cities] <for [20] turns>", "[+20]% [Production] [in all cities] <for [10] turns>"]}
       ]
