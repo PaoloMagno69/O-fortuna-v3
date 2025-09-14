@@ -93,8 +93,9 @@
           "Triggers a [Grande Terremoto 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [7] turns> <starting from the [Atomic era]>",
           "Triggers a [Tsunami Devastante 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [7] turns> <starting from the [Atomic era]>",		
 
-           "Triggers a [Peste Globale] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <before the [Industrial era]>",
-           "Triggers a [Pandemia di Influenza] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Industrial era]> <before the [Modern era]>",
+           "Triggers a [Peste Globale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <before the [Medieval era]>",
+        "Triggers a [Peste Globale 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Medieval era]> <before the [Industrial era]>",   
+		"Triggers a [Pandemia di Influenza] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Industrial era]> <before the [Modern era]>",
            "Triggers a [Pandemia da Laboratorio] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Modern era]>"
 
 		     // Eventi Politici ricorrenti
