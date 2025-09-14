@@ -53,7 +53,16 @@
         "Triggers a [Alluvione Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
          "Triggers a [Siccità Moderata 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
          "Triggers a [Tempesta Devastante 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [10]>",
-
+         "Triggers a [Alluvione Locale 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]>",
+         "Triggers a [Siccità Moderata 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]>",
+         "Triggers a [Tempesta Devastante 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]>",
+		"Triggers a [Alluvione Locale 5-6] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
+         "Triggers a [Siccità Moderata 5-6] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
+         "Triggers a [Tempesta Devastante 5-6] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
+		"Triggers a [Alluvione Locale 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Atomic era]>",
+         "Triggers a [Siccità Moderata 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Atomic era]>",
+         "Triggers a [Tempesta Devastante 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Atomic era]>",
+		
          "Triggers a [Invasione di Cavallette 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
          "Triggers a [Grande Alluvione 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
           "Triggers a [Epidemia Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [7]>",
