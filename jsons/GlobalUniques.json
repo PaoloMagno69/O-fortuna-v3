@@ -98,8 +98,14 @@
            "Triggers a [Pandemia da Laboratorio] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Modern era]>"
 
 		     // Eventi Politici ricorrenti
-    "Triggers a [Rivolta Politica] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
-    "Triggers a [Proteste per Diritti] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
+    "Triggers a [Rivolta Politica 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <before the [Medieval era]>",
+    "Triggers a [Rivolta Politica 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]>",
+	"Triggers a [Rivolta Politica 5-6] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
+	"Triggers a [Rivolta Politica 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Atomic era]>",
+	"Triggers a [Proteste per Diritti 2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Classical era]>",
+    "Triggers a [Proteste per Diritti 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Medieval era]>",",
+    "Triggers a [Proteste per Diritti 5-6] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
+	"Triggers a [Proteste per Diritti 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Atomic era]>",
     "Triggers a [Colpo di Stato] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
     "Triggers a [Corruzione Scoperta] event <for [Major] Civilizations> <upon turn end> <with [5]% chance>",
     "Triggers a [Crisi di Successione] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
