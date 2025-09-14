@@ -1322,7 +1322,30 @@
     ]
   },
   {
-    "name": "Grande Siccità",
+    "name": "Grande Siccità 1-2",
+    "text": "Un lunghissimo periodo senza piogge devasta i raccolti e prosciuga i fiumi, mettendo in ginocchio l'agricoltura.",
+    "choices": [
+      {
+        "text": "Lascia che la natura segua il suo corso",
+        "uniques": [
+          "[-3 Food] [in all cities] <for [8] turns>",
+          "[-5 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una grande siccità e ha subito gravi perdite.\""
+        ]
+      },
+      {
+        "text": "Interventi massicci di irrigazione e scavi",
+        "uniques": [
+        "Gain [-250] [Gold]",
+          "[-1 Food] [in all cities] <for [5] turns>",
+          "[+4 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una grande siccità con imponenti opere idriche.\""
+        ]
+      }
+    ]
+  },
+	 {
+    "name": "Grande Siccità 3-4",
     "text": "Un lunghissimo periodo senza piogge devasta i raccolti e prosciuga i fiumi, mettendo in ginocchio l'agricoltura.",
     "choices": [
       {
@@ -1336,7 +1359,53 @@
       {
         "text": "Interventi massicci di irrigazione e scavi",
         "uniques": [
-        "Gain [-350] [Gold]",
+        "Gain [-450] [Gold]",
+          "[-1 Food] [in all cities] <for [5] turns>",
+          "[+4 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una grande siccità con imponenti opere idriche.\""
+        ]
+      }
+    ]
+  },
+	 {
+    "name": "Grande Siccità 5-6",
+    "text": "Un lunghissimo periodo senza piogge devasta i raccolti e prosciuga i fiumi, mettendo in ginocchio l'agricoltura.",
+    "choices": [
+      {
+        "text": "Lascia che la natura segua il suo corso",
+        "uniques": [
+          "[-4 Food] [in all cities] <for [10] turns>",
+          "[-5 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una grande siccità e ha subito gravi perdite.\""
+        ]
+      },
+      {
+        "text": "Interventi massicci di irrigazione e scavi",
+        "uniques": [
+        "Gain [-1500] [Gold]",
+          "[-1 Food] [in all cities] <for [5] turns>",
+          "[+4 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una grande siccità con imponenti opere idriche.\""
+        ]
+      }
+    ]
+  },
+	 {
+    "name": "Grande Siccità 7-8",
+    "text": "Un lunghissimo periodo senza piogge devasta i raccolti e prosciuga i fiumi, mettendo in ginocchio l'agricoltura.",
+    "choices": [
+      {
+        "text": "Lascia che la natura segua il suo corso",
+        "uniques": [
+          "[-4 Food] [in all cities] <for [10] turns>",
+          "[-5 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una grande siccità e ha subito gravi perdite.\""
+        ]
+      },
+      {
+        "text": "Interventi massicci di irrigazione e scavi",
+        "uniques": [
+        "Gain [-4000] [Gold]",
           "[-1 Food] [in all cities] <for [5] turns>",
           "[+4 Happiness] [in all cities] <for [10] turns>",
           "Display message to all players: \"Una civiltà ha reagito a una grande siccità con imponenti opere idriche.\""
@@ -1347,7 +1416,7 @@
 // =====================================
 // DISASTRI NATURALI BASSA PROB ALTA MAGNITUDO
 {
-  "name": "Eruzione Vulcanica",
+  "name": "Eruzione Vulcanica 1-2",
   "text": "L'eruzione di un grande vulcano ha uscurato il cielo, devastato enormi territori e messo in ginocchio l'impero",
   "choices": [
     {
@@ -1361,7 +1430,76 @@
     {
       "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
       "uniques": [
-          "Gain [-2000] [Gold]",
+          "Gain [-450] [Gold]",
+        "[-1] population [in cities with a [Palace]]",
+        "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un'eruzione vulcanica evacuando e salvando vite umane ed avviando la ricostruzione.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Eruzione Vulcanica 3-4",
+  "text": "L'eruzione di un grande vulcano ha uscurato il cielo, devastato enormi territori e messo in ginocchio l'impero",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+       "[-2] population [in all cities]",
+       "[-7 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà è stata devastata da un'eruzione vulcanica e ha subito la catastrofe.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
+      "uniques": [
+          "Gain [-1500] [Gold]",
+        "[-1] population [in cities with a [Palace]]",
+        "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un'eruzione vulcanica evacuando e salvando vite umane ed avviando la ricostruzione.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Eruzione Vulcanica 5-6",
+  "text": "L'eruzione di un grande vulcano ha uscurato il cielo, devastato enormi territori e messo in ginocchio l'impero",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+       "[-2] population [in all cities]",
+       "[-7 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà è stata devastata da un'eruzione vulcanica e ha subito la catastrofe.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
+      "uniques": [
+          "Gain [-4500] [Gold]",
+        "[-1] population [in cities with a [Palace]]",
+        "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un'eruzione vulcanica evacuando e salvando vite umane ed avviando la ricostruzione.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Eruzione Vulcanica 7-8",
+  "text": "L'eruzione di un grande vulcano ha uscurato il cielo, devastato enormi territori e messo in ginocchio l'impero",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+       "[-2] population [in all cities]",
+       "[-7 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà è stata devastata da un'eruzione vulcanica e ha subito la catastrofe.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
+      "uniques": [
+          "Gain [-12000] [Gold]",
         "[-1] population [in cities with a [Palace]]",
         "[+5 Happiness] [in all cities] <for [12] turns>",
         "Display message to all players: \"Una civiltà ha reagito a un'eruzione vulcanica evacuando e salvando vite umane ed avviando la ricostruzione.\""
@@ -1370,7 +1508,29 @@
   ]
 },
 {
-  "name": "Grande Terremoto",
+  "name": "Grande Terremoto 1-2",
+  "text": "Un terremoto catastrofico scuote la regione, distruggendo edifici e campi.",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+       "[-1] population [in all cities]",
+	   "[-5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha subito un grande terremoto con danni enormi.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
+      "uniques": [
+        "Gain [-450] [Gold]",
+         "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un grande terremoto con lavori di soccorso e rinforzo.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Grande Terremoto 3-4",
   "text": "Un terremoto catastrofico scuote la regione, distruggendo edifici e campi.",
   "choices": [
     {
@@ -1391,8 +1551,52 @@
     }
   ]
 },
+	{
+  "name": "Grande Terremoto 5-6",
+  "text": "Un terremoto catastrofico scuote la regione, distruggendo edifici e campi.",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+       "[-1] population [in all cities]",
+	   "[-5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha subito un grande terremoto con danni enormi.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
+      "uniques": [
+        "Gain [-4500] [Gold]",
+         "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un grande terremoto con lavori di soccorso e rinforzo.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Grande Terremoto 7-8",
+  "text": "Un terremoto catastrofico scuote la regione, distruggendo edifici e campi.",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+       "[-1] population [in all cities]",
+	   "[-5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha subito un grande terremoto con danni enormi.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi i sopravvissuti, avvia le necessarie opere di ricostruzione",
+      "uniques": [
+        "Gain [-12000] [Gold]",
+         "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un grande terremoto con lavori di soccorso e rinforzo.\""
+      ]
+    }
+  ]
+},
 {
-  "name": "Tsunami Devastante",
+  "name": "Tsunami Devastante 1-2",
   "text": "Un'onda gigantesca travolge le coste, causando danni incalcolabili.",
   "choices": [
     {
@@ -1406,7 +1610,7 @@
     {
       "text": "Evacua e proteggi le coste",
       "uniques": [
-        "Gain [-2000] [Gold]",
+        "Gain [-450] [Gold]",
         "[-1] population [in cities with a [Palace]]",
 		  "[+5 Happiness] [in all cities] <for [12] turns>",
         "Display message to all players: \"Una civiltà ha reagito a un devastante tsunami proteggendo le sue coste.\""
@@ -1414,9 +1618,77 @@
     }
   ]
 },
-
+	{
+  "name": "Tsunami Devastante 3-4",
+  "text": "Un'onda gigantesca travolge le coste, causando danni incalcolabili.",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+        "[-2] population [in all cities]",
+         "[-7 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà è stata colpita da un tsunami e ha subito danni terribili.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi le coste",
+      "uniques": [
+        "Gain [-1500] [Gold]",
+        "[-1] population [in cities with a [Palace]]",
+		  "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un devastante tsunami proteggendo le sue coste.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Tsunami Devastante 5-6",
+  "text": "Un'onda gigantesca travolge le coste, causando danni incalcolabili.",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+        "[-2] population [in all cities]",
+         "[-7 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà è stata colpita da un tsunami e ha subito danni terribili.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi le coste",
+      "uniques": [
+        "Gain [-4500] [Gold]",
+        "[-1] population [in cities with a [Palace]]",
+		  "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un devastante tsunami proteggendo le sue coste.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Tsunami Devastante 7-8",
+  "text": "Un'onda gigantesca travolge le coste, causando danni incalcolabili.",
+  "choices": [
+    {
+      "text": "Il fato ci han punito: non possiamo che piegarci al suo volere",
+      "uniques": [
+        "[-2] population [in all cities]",
+         "[-7 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà è stata colpita da un tsunami e ha subito danni terribili.\""
+      ]
+    },
+    {
+      "text": "Evacua e proteggi le coste",
+      "uniques": [
+        "Gain [-12000] [Gold]",
+        "[-1] population [in cities with a [Palace]]",
+		  "[+5 Happiness] [in all cities] <for [12] turns>",
+        "Display message to all players: \"Una civiltà ha reagito a un devastante tsunami proteggendo le sue coste.\""
+      ]
+    }
+  ]
+},
 {
-  "name": "Peste Globale",
+  "name": "Peste Globale 1-2",
   "text": "Una grande peste si diffonde in tutto il mondo, colpendo città e villaggi: sarà forse la fine dell'umanità?.",
   "choices": [
     {
@@ -1430,7 +1702,30 @@
     {
       "text": "Non abbiamo mai dovuto affrontare una prova così grande ma non ci arrenderemo: mobilitate guaritori, templi e scienziati!",
       "uniques": [
-       "Gain [-3000] [Gold]",
+       "Gain [-600] [Gold]",
+		 "[-1] population [in all cities]",
+        "[+4 Happiness] [in all cities] <for [20] turns>",
+        "Display message to all players: \"Una civiltà ha reagito alla Grande Peste con riti e cure diffuse.\""
+      ]
+    }
+  ]
+},
+	{
+  "name": "Peste Globale 3-4",
+  "text": "Una grande peste si diffonde in tutto il mondo, colpendo città e villaggi: sarà forse la fine dell'umanità?.",
+  "choices": [
+    {
+      "text": "Ognuno preghi i suoi dei, solo loro possono salvarci!",
+      "uniques": [
+     "[-3] population [in all cities]",
+        "[-10 Happiness] [in all cities] <for [20] turns>",
+		  "Display message to all players: \"Una civiltà è stata colpita dalla Grande Peste e ha subito le perdite.\""
+      ]
+    },
+    {
+      "text": "Non abbiamo mai dovuto affrontare una prova così grande ma non ci arrenderemo: mobilitate guaritori, templi e scienziati!",
+      "uniques": [
+       "Gain [-2000] [Gold]",
 		 "[-1] population [in all cities]",
         "[+4 Happiness] [in all cities] <for [20] turns>",
         "Display message to all players: \"Una civiltà ha reagito alla Grande Peste con riti e cure diffuse.\""
@@ -1453,7 +1748,7 @@
     {
       "text": "Non abbiamo mai dovuto affrontare una prova così grande ma non ci arrenderemo: mobilitate medici e ospedali!",
       "uniques": [
-        "Gain [-5000] [Gold]",
+        "Gain [-6000] [Gold]",
 		 "[-1] population [in all cities]",
          "[+4 Happiness] [in all cities] <for [20] turns>",
         "Display message to all players: \"Una civiltà ha reagito alla Pandemia di Influenza con misure straordinarie.\""
@@ -1477,7 +1772,7 @@
     {
       "text": "Se la follia umana è la causa di questa tragedia, la sua intelligenza potrà essere la soluzione: mobilitate i ricercatori per trovare un vaccino!",
       "uniques": [
-      "Gain [-10000] [Gold]",
+      "Gain [-15000] [Gold]",
 		"[-2] population [in all cities]",
          "[+4 Happiness] [in all cities] <for [20] turns>",
         "Display message to all players: \"Una civiltà ha reagito alla Pandemia causata da un virus geneticamente modificato trovando un vaccino.\""
@@ -1488,21 +1783,81 @@
 // =====================================
 // EVENTI POLITICI
 	{
-      "name": "Rivolta Politica",
+      "name": "Rivolta Politica 1-2",
       "text": "Una fazione interna contesta il tuo governo. Come reagisci?",
       "choices": [
         { "text": "Media le tensioni e trova un accordo",
-          "uniques": ["Gain [-100] [Gold]", "[+4 Happiness] [in all cities] <for [10] turns>"]},
+          "uniques": ["Gain [-60] [Gold]", "[+4 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Reprimi con la forza",
+          "uniques": ["[-4 Happiness] [in all cities] <for [10] turns>", "[+20]% [Production] [in all cities] <for [10] turns>"]}
+      ]
+    },
+		{
+      "name": "Rivolta Politica 3-4",
+      "text": "Una fazione interna contesta il tuo governo. Come reagisci?",
+      "choices": [
+        { "text": "Media le tensioni e trova un accordo",
+          "uniques": ["Gain [-210] [Gold]", "[+4 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Reprimi con la forza",
+          "uniques": ["[-4 Happiness] [in all cities] <for [10] turns>", "[+20]% [Production] [in all cities] <for [10] turns>"]}
+      ]
+    },
+		{
+      "name": "Rivolta Politica 5-6",
+      "text": "Una fazione interna contesta il tuo governo. Come reagisci?",
+      "choices": [
+        { "text": "Media le tensioni e trova un accordo",
+          "uniques": ["Gain [-600] [Gold]", "[+4 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Reprimi con la forza",
+          "uniques": ["[-4 Happiness] [in all cities] <for [10] turns>", "[+20]% [Production] [in all cities] <for [10] turns>"]}
+      ]
+    },
+		{
+      "name": "Rivolta Politica 7-8",
+      "text": "Una fazione interna contesta il tuo governo. Come reagisci?",
+      "choices": [
+        { "text": "Media le tensioni e trova un accordo",
+          "uniques": ["Gain [-1500] [Gold]", "[+4 Happiness] [in all cities] <for [10] turns>"]},
         { "text": "Reprimi con la forza",
           "uniques": ["[-4 Happiness] [in all cities] <for [10] turns>", "[+20]% [Production] [in all cities] <for [10] turns>"]}
       ]
     },
     {
-      "name": "Proteste per Diritti",
+      "name": "Proteste per Diritti 2",
       "text": "Il popolo protesta per nuovi diritti civili.",
       "choices": [
         { "text": "Accogli le richieste",
-          "uniques": ["Gain [-120] [Gold]", "[+5 Happiness] [in all cities] <for [10] turns>"]},
+          "uniques": ["Gain [-60] [Gold]", "[+5 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Ignora e reprimi",
+          "uniques": ["[-5 Happiness] [in all cities] <for [10] turns>", "[+15]% [Production] [in all cities] <for [5] turns>"]}
+      ]
+    },
+	  {
+      "name": "Proteste per Diritti 3-4",
+      "text": "Il popolo protesta per nuovi diritti civili.",
+      "choices": [
+        { "text": "Accogli le richieste",
+          "uniques": ["Gain [-210] [Gold]", "[+5 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Ignora e reprimi",
+          "uniques": ["[-5 Happiness] [in all cities] <for [10] turns>", "[+15]% [Production] [in all cities] <for [5] turns>"]}
+      ]
+    },
+	  {
+      "name": "Proteste per Diritti 5-6",
+      "text": "Il popolo protesta per nuovi diritti civili.",
+      "choices": [
+        { "text": "Accogli le richieste",
+          "uniques": ["Gain [-600] [Gold]", "[+5 Happiness] [in all cities] <for [10] turns>"]},
+        { "text": "Ignora e reprimi",
+          "uniques": ["[-5 Happiness] [in all cities] <for [10] turns>", "[+15]% [Production] [in all cities] <for [5] turns>"]}
+      ]
+    },
+	  {
+      "name": "Proteste per Diritti 7-8",
+      "text": "Il popolo protesta per nuovi diritti civili.",
+      "choices": [
+        { "text": "Accogli le richieste",
+          "uniques": ["Gain [-1500] [Gold]", "[+5 Happiness] [in all cities] <for [10] turns>"]},
         { "text": "Ignora e reprimi",
           "uniques": ["[-5 Happiness] [in all cities] <for [10] turns>", "[+15]% [Production] [in all cities] <for [5] turns>"]}
       ]
