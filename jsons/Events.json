@@ -1050,7 +1050,30 @@
   // =====================================
   // DISASTRI NATURALI MEDIA PROB MEDIA MAGNITUDO
   {
-    "name": "Invasione di Cavallette",
+    "name": "Invasione di Cavallette 1-2",
+    "text": "Sciami di cavallette devastano i campi agricoli, compromettendo il cibo.",
+    "choices": [
+      {
+        "text": "Cosa potremmo mai fare per fermare questa piaga?",
+        "uniques": [
+          "[-3 Food] [in all cities] <for [6] turns>",
+          "[-3 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà è stata devastata da cavallette e ha subito i danni.\""
+        ]
+      },
+      {
+        "text": "Combatteremo questi sciami con ogni mezzo",
+        "uniques": [
+         "Gain [-100] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+         "[+4 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a un'invasione di cavallette con misure drastiche.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Invasione di Cavallette 3-4",
     "text": "Sciami di cavallette devastano i campi agricoli, compromettendo il cibo.",
     "choices": [
       {
@@ -1064,7 +1087,53 @@
       {
         "text": "Combatteremo questi sciami con ogni mezzo",
         "uniques": [
-         "Gain [-150] [Gold]",
+         "Gain [-350] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+         "[+4 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a un'invasione di cavallette con misure drastiche.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Invasione di Cavallette 5-6",
+    "text": "Sciami di cavallette devastano i campi agricoli, compromettendo il cibo.",
+    "choices": [
+      {
+        "text": "Cosa potremmo mai fare per fermare questa piaga?",
+        "uniques": [
+          "[-4 Food] [in all cities] <for [10] turns>",
+          "[-3 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà è stata devastata da cavallette e ha subito i danni.\""
+        ]
+      },
+      {
+        "text": "Combatteremo questi sciami con ogni mezzo",
+        "uniques": [
+         "Gain [-1000] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+         "[+4 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a un'invasione di cavallette con misure drastiche.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Invasione di Cavallette 7-8",
+    "text": "Sciami di cavallette devastano i campi agricoli, compromettendo il cibo.",
+    "choices": [
+      {
+        "text": "Cosa potremmo mai fare per fermare questa piaga?",
+        "uniques": [
+          "[-4 Food] [in all cities] <for [12] turns>",
+          "[-3 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata devastata da cavallette e ha subito i danni.\""
+        ]
+      },
+      {
+        "text": "Combatteremo questi sciami con ogni mezzo",
+        "uniques": [
+         "Gain [-2500] [Gold]",
           "[-1 Food] [in all cities] <for [4] turns>",
          "[+4 Happiness] [in all cities] <for [8] turns>",
           "Display message to all players: \"Una civiltà ha reagito a un'invasione di cavallette con misure drastiche.\""
@@ -1073,7 +1142,30 @@
     ]
   },
   {
-    "name": "Grande Alluvione",
+    "name": "Grande Alluvione 1-2",
+    "text": "Un fiume in piena sommerge intere pianure, distruggendo campi e infrastrutture.",
+    "choices": [
+      {
+        "text": "Contro la natura siamo piccoli e insignificanti, accetta le perdite",
+        "uniques": [
+          "[-2 Food] [in all cities] <for [6] turns>",
+        "[-5 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una grande alluvione e ha subito gravi perdite.\""
+        ]
+      },
+      {
+        "text": "Intervieni con opere gigantesche",
+        "uniques": [
+          "Gain [-100] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+           "[+5 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una grande alluvione con enormi opere di ingegneria.\""
+        ]
+      }
+    ]
+  },
+	 {
+    "name": "Grande Alluvione 3-4",
     "text": "Un fiume in piena sommerge intere pianure, distruggendo campi e infrastrutture.",
     "choices": [
       {
@@ -1087,7 +1179,53 @@
       {
         "text": "Intervieni con opere gigantesche",
         "uniques": [
-          "Gain [-250] [Gold]",
+          "Gain [-350] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+           "[+5 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una grande alluvione con enormi opere di ingegneria.\""
+        ]
+      }
+    ]
+  },
+	 {
+    "name": "Grande Alluvione 5-6",
+    "text": "Un fiume in piena sommerge intere pianure, distruggendo campi e infrastrutture.",
+    "choices": [
+      {
+        "text": "Contro la natura siamo piccoli e insignificanti, accetta le perdite",
+        "uniques": [
+          "[-3 Food] [in all cities] <for [10] turns>",
+        "[-5 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una grande alluvione e ha subito gravi perdite.\""
+        ]
+      },
+      {
+        "text": "Intervieni con opere gigantesche",
+        "uniques": [
+          "Gain [-1000] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+           "[+5 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una grande alluvione con enormi opere di ingegneria.\""
+        ]
+      }
+    ]
+  },
+	 {
+    "name": "Grande Alluvione 7-8",
+    "text": "Un fiume in piena sommerge intere pianure, distruggendo campi e infrastrutture.",
+    "choices": [
+      {
+        "text": "Contro la natura siamo piccoli e insignificanti, accetta le perdite",
+        "uniques": [
+          "[-4 Food] [in all cities] <for [12] turns>",
+        "[-5 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una grande alluvione e ha subito gravi perdite.\""
+        ]
+      },
+      {
+        "text": "Intervieni con opere gigantesche",
+        "uniques": [
+          "Gain [-2500] [Gold]",
           "[-1 Food] [in all cities] <for [4] turns>",
            "[+5 Happiness] [in all cities] <for [8] turns>",
           "Display message to all players: \"Una civiltà ha reagito a una grande alluvione con enormi opere di ingegneria.\""
@@ -1096,7 +1234,7 @@
     ]
   },
   {
-    "name": "Epidemia Locale",
+    "name": "Epidemia Locale 1-2",
     "text": "Una epidemia colpisce la capitale, causando morti e paura.",
     "choices": [
       {
@@ -1111,6 +1249,72 @@
         "text": "Fornisci i migliori guaritori e le migliori medicine disponibili",
         "uniques": [
           "Gain [-150] [Gold]",
+        "[+3 Happiness] [in all cities] <for [6] turns>",
+			"Display message to all players: \"Una civiltà ha reagito a un'epidemia locale con cure e medicine.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Epidemia Locale 3-4",
+    "text": "Una epidemia colpisce la capitale, causando morti e paura.",
+    "choices": [
+      {
+        "text": "Lascia che si estingua naturalmente",
+        "uniques": [
+       "[-1] population [in cities with a [Palace]]",
+           "[-4 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da un'epidemia locale e non è intervenuta.\""
+        ]
+      },
+      {
+        "text": "Fornisci i migliori guaritori e le migliori medicine disponibili",
+        "uniques": [
+          "Gain [-450] [Gold]",
+        "[+3 Happiness] [in all cities] <for [6] turns>",
+			"Display message to all players: \"Una civiltà ha reagito a un'epidemia locale con cure e medicine.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Epidemia Locale 5-6",
+    "text": "Una epidemia colpisce la capitale, causando morti e paura.",
+    "choices": [
+      {
+        "text": "Lascia che si estingua naturalmente",
+        "uniques": [
+       "[-2] population [in cities with a [Palace]]",
+           "[-5 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da un'epidemia locale e non è intervenuta.\""
+        ]
+      },
+      {
+        "text": "Fornisci i migliori guaritori e le migliori medicine disponibili",
+        "uniques": [
+          "Gain [-1500] [Gold]",
+        "[+3 Happiness] [in all cities] <for [6] turns>",
+			"Display message to all players: \"Una civiltà ha reagito a un'epidemia locale con cure e medicine.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Epidemia Locale 7-8",
+    "text": "Una epidemia colpisce la capitale, causando morti e paura.",
+    "choices": [
+      {
+        "text": "Lascia che si estingua naturalmente",
+        "uniques": [
+       "[-2] population [in cities with a [Palace]]",
+           "[-7 Happiness] [in all cities] <for [10] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da un'epidemia locale e non è intervenuta.\""
+        ]
+      },
+      {
+        "text": "Fornisci i migliori guaritori e le migliori medicine disponibili",
+        "uniques": [
+          "Gain [-4000] [Gold]",
         "[+3 Happiness] [in all cities] <for [6] turns>",
 			"Display message to all players: \"Una civiltà ha reagito a un'epidemia locale con cure e medicine.\""
         ]
