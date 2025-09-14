@@ -863,7 +863,30 @@
     ]
   },
   {
-    "name": "Siccità Moderata",
+    "name": "Siccità Moderata 1-2",
+    "text": "Un periodo di scarse piogge mette sotto pressione le riserve alimentari.",
+    "choices": [
+      {
+        "text": "Subisci la carestia",
+        "uniques": [
+          "[-2 Food] [in all cities] <for [3] turns>",
+			"[-2 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha subito una siccità e ha accettato la carestia.\""
+        ]
+      },
+      {
+        "text": "Investi in pozzi e irrigazione",
+        "uniques": [
+          "Gain [-15] [Gold]",
+          "[-1 Food] [in all cities] <for [2] turns>",
+          "[+2 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una siccità costruendo pozzi e canali di irrigazione.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Siccità Moderata 3-4",
     "text": "Un periodo di scarse piogge mette sotto pressione le riserve alimentari.",
     "choices": [
       {
@@ -877,7 +900,7 @@
       {
         "text": "Investi in pozzi e irrigazione",
         "uniques": [
-          "Gain [-40] [Gold]",
+          "Gain [-60] [Gold]",
           "[-1 Food] [in all cities] <for [2] turns>",
           "[+2 Happiness] [in all cities] <for [8] turns>",
           "Display message to all players: \"Una civiltà ha reagito a una siccità costruendo pozzi e canali di irrigazione.\""
@@ -885,8 +908,54 @@
       }
     ]
   },
+	{
+    "name": "Siccità Moderata 5-6",
+    "text": "Un periodo di scarse piogge mette sotto pressione le riserve alimentari.",
+    "choices": [
+      {
+        "text": "Subisci la carestia",
+        "uniques": [
+          "[-2 Food] [in all cities] <for [6] turns>",
+			"[-2 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha subito una siccità e ha accettato la carestia.\""
+        ]
+      },
+      {
+        "text": "Investi in pozzi e irrigazione",
+        "uniques": [
+          "Gain [-210] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+          "[+2 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una siccità costruendo pozzi e canali di irrigazione.\""
+        ]
+      }
+    ]
+  },
+	{
+    "name": "Siccità Moderata 7-8",
+    "text": "Un periodo di scarse piogge mette sotto pressione le riserve alimentari.",
+    "choices": [
+      {
+        "text": "Subisci la carestia",
+        "uniques": [
+          "[-2 Food] [in all cities] <for [7] turns>",
+			"[-2 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha subito una siccità e ha accettato la carestia.\""
+        ]
+      },
+      {
+        "text": "Investi in pozzi e irrigazione",
+        "uniques": [
+          "Gain [-600] [Gold]",
+          "[-1 Food] [in all cities] <for [4] turns>",
+          "[+2 Happiness] [in all cities] <for [8] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una siccità costruendo pozzi e canali di irrigazione.\""
+        ]
+      }
+    ]
+  },
   {
-    "name": "Tempesta Devastante",
+    "name": "Tempesta Devastante 1-2",
     "text": "Una tempesta ha colpito villaggi e campi agricoli, causando distruzione.",
     "choices": [
       {
@@ -901,7 +970,76 @@
       {
         "text": "Ripara i danni immediatamente",
         "uniques": [
-          "Gain [-30] [Gold]",
+          "Gain [-15] [Gold]",
+     "[+2 Happiness] [in all cities] <for [5] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una tempesta con lavori di riparazione immediati.\""
+        ]
+      }
+    ]
+  },
+{
+    "name": "Tempesta Devastante 3-4",
+    "text": "Una tempesta ha colpito villaggi e campi agricoli, causando distruzione.",
+    "choices": [
+      {
+        "text": "Subisci le perdite",
+        "uniques": [
+          "[-1 Food] [in all cities] <for [3] turns>",
+          "[-1 Production] [in all cities] <for [3] turns>",
+          "[-3 Happiness] [in all cities] <for [5] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una tempesta e ha subito le perdite.\""
+        ]
+      },
+      {
+        "text": "Ripara i danni immediatamente",
+        "uniques": [
+          "Gain [-60] [Gold]",
+     "[+2 Happiness] [in all cities] <for [5] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una tempesta con lavori di riparazione immediati.\""
+        ]
+      }
+    ]
+  },
+{
+    "name": "Tempesta Devastante 5-6",
+    "text": "Una tempesta ha colpito villaggi e campi agricoli, causando distruzione.",
+    "choices": [
+      {
+        "text": "Subisci le perdite",
+        "uniques": [
+          "[-1 Food] [in all cities] <for [3] turns>",
+          "[-1 Production] [in all cities] <for [3] turns>",
+          "[-3 Happiness] [in all cities] <for [5] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una tempesta e ha subito le perdite.\""
+        ]
+      },
+      {
+        "text": "Ripara i danni immediatamente",
+        "uniques": [
+          "Gain [-210] [Gold]",
+     "[+2 Happiness] [in all cities] <for [5] turns>",
+          "Display message to all players: \"Una civiltà ha reagito a una tempesta con lavori di riparazione immediati.\""
+        ]
+      }
+    ]
+  },
+{
+    "name": "Tempesta Devastante 7-8",
+    "text": "Una tempesta ha colpito villaggi e campi agricoli, causando distruzione.",
+    "choices": [
+      {
+        "text": "Subisci le perdite",
+        "uniques": [
+          "[-1 Food] [in all cities] <for [3] turns>",
+          "[-1 Production] [in all cities] <for [3] turns>",
+          "[-3 Happiness] [in all cities] <for [5] turns>",
+          "Display message to all players: \"Una civiltà è stata colpita da una tempesta e ha subito le perdite.\""
+        ]
+      },
+      {
+        "text": "Ripara i danni immediatamente",
+        "uniques": [
+          "Gain [-600] [Gold]",
      "[+2 Happiness] [in all cities] <for [5] turns>",
           "Display message to all players: \"Una civiltà ha reagito a una tempesta con lavori di riparazione immediati.\""
         ]
