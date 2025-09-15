@@ -40,7 +40,7 @@
 		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
 		"Triggers a [Artists Protest the Eiffel Tower] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
 		"Triggers a [A Destitute Noble] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
-		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]>",
+		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
 		"Triggers a [Solar Eclipse] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
 		"Triggers a [Mercenaries] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Medieval era]> <before the [Industrial era]>",
 		"Triggers a [PMCs] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Atomic era]>",
