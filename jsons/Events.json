@@ -87,7 +87,7 @@
 			  "uniques": [ "[1] free [Great Artist] units appear"]},
       
      			{ "text": "Un miracolo astronomico!",
-			  "uniques": ["[1] free [Great Scientist] units appear"] }]
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities <in cities with a [Stele della profezia dell'ospite]>] <hidden from users>",] }]
   },
 
 	{
