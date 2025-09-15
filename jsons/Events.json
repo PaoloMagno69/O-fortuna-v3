@@ -6,8 +6,8 @@
 	"name": "O fortuna",
 	 "text": "O fortuna velut luna statu variabilis semper crescis aut decrescis.",
 	 "choices": [
-	  {"text": "Proprio come le onde del mare possono in qualsiasi momento alterare la rotta di una nave, favorendola o ostacolandola, 
-		  così la dea Fortuna può in qualsiasi momento sconvolgere la vita degli uomini e persino di intere popolazioni. 
+	  {"text": "Proprio come le onde del mare possono in qualsiasi momento alterare la rotta di una nave, favorendola o ostacolandola,
+		  così la dea Fortuna può in qualsiasi momento sconvolgere la vita degli uomini e persino di intere popolazioni.
 		  Riuscirai a guidare la tua civiltà attraverso le onde della Storia?",
 	  "uniques": ["Gain a free [Stele della profezia dell'ospite] [in capital]"] } ]
 	
