@@ -84,10 +84,10 @@
 		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
 		"choices": [
 			{ "text": "Che bellezza!",
-			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] <in cities with a [Stele della profezia dell'ospite]> <hidden from users>"]},
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities <in cities with a [Stele della profezia dell'ospite]>] <hidden from users>"},
       
      			{ "text": "Un miracolo astronomico!",
-			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] <in cities with a [Stele della profezia dell'ospite]> <hidden from users>"] }]
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities <in cities with a [Stele della profezia dell'ospite]>] <hidden from users>"] }]
   },
 
 	{
