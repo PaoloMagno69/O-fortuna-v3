@@ -4,7 +4,7 @@
 // =====================================
 // ATTIVA EVENTI
 // =====================================
-        "Triggers a [O fortuna] event <for [Major] Civilizations> <upon turn end> <after turn number [1]> <before turn number [3]>",
+        "Triggers a [O fortuna] event <for [Major] Civilizations> <upon turn end> <after turn number [0]> <before turn number [1]>",
 
 // =====================================
 // ALTRI
