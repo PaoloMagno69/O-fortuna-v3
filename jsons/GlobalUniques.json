@@ -1,6 +1,14 @@
 {
 	"name": "Global uniques",
 	"uniques": [
+// =====================================
+// ATTIVA EVENTI
+// =====================================
+        "Triggers a [O fortuna] event <for [Major] Civilizations> <upon turn end> <after turn number [1]> <before turn number [3]>",
+
+// =====================================
+// ALTRI
+// =====================================
 		"Triggers a [Miracle Harvest!] event <upon discovering [Fertilizer] technology>",
 		"Triggers a [Nationalize the Utilities] event <upon discovering [Industrialization] technology>",
 		"Triggers a [Subsidize] event <upon discovering [Steam Power] technology>",
