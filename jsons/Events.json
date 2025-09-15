@@ -6,7 +6,7 @@
 	"name": "O fortuna",
 	 "text": "O fortuna velut luna statu variabilis semper crescis aut decrescis.",
 	 "choices": [
-	  {"text": "O fortuna velut luna statu variabilis semper crescis aut decrescis.",
+	  {"text": "Riuscirai a guidare il tuo popolo tra le onde imprevedibili del fato?",
 	  "uniques": ["Gain a free [Stele della profezia dell'ospite] [in capital]"] } ]
 	
 },
