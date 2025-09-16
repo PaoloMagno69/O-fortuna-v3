@@ -7,7 +7,16 @@
 	 "text": "O fortuna velut luna statu variabilis semper crescis aut decrescis.",
 	 "choices": [
 	  {"text": "Riuscirai a guidare il tuo popolo tra le onde imprevedibili del fato?",
-	  "uniques": ["Gain a free [Stele della profezia dell'ospite] [in capital]"] } ]
+	  "uniques": ["Gain a free [Stele profezia dell'ospite] [in capital]", 
+		        "Gain a free [Stele profezia dell'acqua] [in capital]",
+			    "Gain a free [Stele profezia dell'architetto] [in capital]",
+		         "Gain a free [Stele profezia del grande tempio] [in capital]",
+		  "Gain a free [Stele profezia del dito di dio] [in capital]",
+		  "Gain a free [Stele profezia delle terre che si aprono] [in capital]",
+		  "Gain a free [Stele profezia della sacra famiglia] [in capital]",
+		  "Gain a free [Stele profezia dell'uomo oltre le nuvole] [in capital]",
+		  "Gain a free [Stele profezia della luna] [in capital]",
+		 		  ] } ]
 	
 },
 // =====================================
