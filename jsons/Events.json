@@ -19,6 +19,87 @@
 		 		  ] } ]
 	
 },
+	{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "Canale Mohenjo-Daro",
+		"text": "È giunta voce che in una terra molto lontana abilissimi ingegneri sono riusciti a domare le acque dei fiumi e metterle al servizio delle città!",
+		"choices": [
+			{ "text": "Sono tutte fesserie, non posso dare retta ad ogni voce portata dai mercanti!",
+			  "uniques": [ "Remove [Stele profezia dell'acqua] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Anche se costerà molto denaro, occorre mandare i nostri ingegneri a studiare questo prodigio!",
+			  "uniques": [ "Gain [-350] [Gold]", "[1] free [Great Scientist] units appear", "Remove [Stele profezia dell'acqua] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+		{
+		"name": "The Guest Star",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
+		"choices": [
+			{ "text": "Che bellezza!",
+			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
+      
+     			{ "text": "Un miracolo astronomico!",
+			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
+  },
+
 // =====================================
 // EVENTS AND DECISIONS
 // =====================================
@@ -88,16 +169,7 @@
                   		      "Gain [25]-[35] [Culture]"] }]
   },
 
-	{
-		"name": "The Guest Star",
-		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
-		"choices": [
-			{ "text": "Che bellezza!",
-			  "uniques": [ "[1] free [Great Artist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"]},
-      
-     			{ "text": "Un miracolo astronomico!",
-			  "uniques": ["[1] free [Great Scientist] units appear", "Remove [Stele della profezia dell'ospite] [in all cities] <hidden from users>"] }]
-  },
+
 
 	{
 		"name": "Solar Eclipse",
