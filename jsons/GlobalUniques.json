@@ -5,7 +5,17 @@
 // ATTIVA EVENTI
 // =====================================
         "Triggers a [O fortuna] event <for [Major] Civilizations> <upon turn end> <after turn number [5]> <before turn number [6]>",
-
+		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [Canale Mohenjo-Daro] event <for [Major] Civilizations> <upon turn end>  <before the [Classical era]> <if [Stele profezia dell'acqua] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
+		
+		
 // =====================================
 // ALTRI
 // =====================================
