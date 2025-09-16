@@ -7,7 +7,7 @@
         "Triggers a [O fortuna] event <for [Major] Civilizations> <upon turn end> <after turn number [5]> <before turn number [6]>",
 		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end> <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
 "Triggers a [Canale Mohenjo-Daro] event <for [Major] Civilizations> <upon turn end> <before the [Classical era]> <if [Stele profezia dell'acqua] is constructed>",
-"Triggers a [Ziggurat di Ur] event <for [Major] Civilizations> <upon turn end> <before the [Classical era]> <if [Stele profezia dell'architetto] is constructed>",
+"Triggers a [Piramide di Djoser] event <for [Major] Civilizations> <upon turn end> <before the [Classical era]> <if [Stele profezia dell'architetto] is constructed>",
 "Triggers a [Angkor Wat] event <for [Major] Civilizations> <upon turn end> <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele profezia del grande tempio] is constructed>",
 "Triggers a [Cappella Sistina] event <for [Major] Civilizations> <upon turn end> <starting from the [Renaissance era]> <before the [Industrial era]> <if [Stele profezia del dito di dio] is constructed>",
 "Triggers a [Canale di Suez] event <for [Major] Civilizations> <upon turn end> <starting from the [Industrial era]> <before the [Modern era]> <if [Stele profezia delle terre che si aprono] is constructed>",
