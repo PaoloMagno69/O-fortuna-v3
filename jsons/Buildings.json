@@ -3,11 +3,50 @@
 // ATTIVA EVENTI
 // =====================================
 {
-		"name": "Stele della profezia dell'ospite",
+		"name": "Stele profezia dell'ospite",
 		"cost": 80,
 		"isNationalWonder": true,
 	},
-
+{
+		"name": "Stele profezia dell'acqua",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia dell'architetto",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia del grande tempio",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia del dito di dio",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia delle terre che si aprono",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia della sacra famiglia",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia dell'uomo oltre le nuvole",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Stele profezia della stella rossa",
+		"cost": 80,
+		"isNationalWonder": true,
+	},
 // =====================================
 // ALTRO
 // =====================================
