@@ -15,10 +15,19 @@
 		  "Gain a free [Stele profezia delle terre che si aprono] [in capital]",
 		  "Gain a free [Stele profezia della sacra famiglia] [in capital]",
 		  "Gain a free [Stele profezia dell'uomo oltre le nuvole] [in capital]",
+		  "Gain a free [Stele profezia della figlia] [in capital]",
 		  "Gain a free [Stele profezia della stella rossa] [in capital]",
 		 		  ] } ]
 	
 },
+	{
+		    "name": "Agnese Maria",
+		    "text": "Una notizia ha riepito di gioia il mondo intero: è nata Agnese Maria!",
+		    "choices": [
+			    {"text": "Le opportunità arrivano raramente. Quando piove oro, mettete fuori il secchio, non il cucchiaio!",
+			     "uniques": ["[+1000 Happiness] [in all cities] <for [5] turns>", "Remove [Stele profezia della figlia] [in all cities] <hidden from users>"] } ]
+	
+	},
 	{
 		"name": "The Guest Star",
 		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
