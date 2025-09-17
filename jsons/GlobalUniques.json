@@ -13,6 +13,7 @@
 "Triggers a [Canale di Suez] event <for [Major] Civilizations> <upon turn end> <starting from the [Industrial era]> <before the [Modern era]> <if [Stele profezia delle terre che si aprono] is constructed>",
 "Triggers a [Sagrada Familia] event <for [Major] Civilizations> <upon turn end> <starting from the [Industrial era]> <before the [Information era]> <if [Stele profezia della sacra famiglia] is constructed>",
 "Triggers a [Jurij Gagarin] event <for [Major] Civilizations> <upon turn end> <starting from the [Atomic era]> <before the [Information era]> <if [Stele profezia dell'uomo oltre le nuvole] is constructed>",
+"Triggers a [Agnese Maria] event <for [Major] Civilizations> <upon turn end> <starting from the [Information era]> <if [Stele profezia della figlia] is constructed>",
 "Triggers a [Conquista di Marte] event <for [Major] Civilizations> <upon turn end> <starting from the [Information era]> <if [Stele profezia della stella rossa] is constructed>",
 		
 // =====================================
