@@ -2,7 +2,13 @@
 // =====================================
 // ATTIVA EVENTI
 // =====================================
-{
+   {
+		"name": "Stele profezia della figlia",
+		"cost": 80,
+	    "uniques": ["Unbuildable"],
+		"isNationalWonder": true,
+	},
+	{
 		"name": "Stele profezia dell'ospite",
 		"cost": 80,
 	    "uniques": ["Unbuildable"],
