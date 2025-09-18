@@ -46,20 +46,20 @@
 		"Triggers a [Iroquois UE] event <for [Iroquois] Civilizations> <upon discovering [Metal Casting] technology>",
 		"Triggers a [Japan UE] event <for [Japan] Civilizations> <upon discovering [Gunpowder] technology>",
 		
-		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
+		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [9]> <before the [Renaissance era]>",
 		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
 		"Triggers a [Artists Protest the Eiffel Tower] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
 		"Triggers a [A Destitute Noble] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
 		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <starting from the [Medieval era]> <before the [Renaissance era]> <if [Stele della profezia dell'ospite] is constructed>",
-		"Triggers a [Solar Eclipse] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
+		"Triggers a [Solar Eclipse] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [9]> <before the [Renaissance era]>",
 		"Triggers a [Mercenaries] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Medieval era]> <before the [Industrial era]>",
 		"Triggers a [PMCs] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Atomic era]>",
 		"Triggers a [Struck Oil!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
 		"Triggers a [A Beast Stalks the City] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
 		"Triggers a [Social Reforms] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Classical era]>",
-		"Triggers a [Mystic] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Industrial era]>",
-		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
-		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
+		"Triggers a [Mystic] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [9]> <before the [Industrial era]>",
+		"Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [9]> <before discovering [Fertilizer]>",
+		"Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [9]> <before discovering [Fertilizer]>",
 		"Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when at war>",
 		"Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <starting from the [Modern era]>",   //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back,
 		"Triggers a [Economic Depression] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
@@ -68,8 +68,8 @@
 		"Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
          // -------------------------------------------------
          // O FORTUNA
-        "Triggers a [Alluvione Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [5]> <before the [Medieval era]>",
-         "Triggers a [Siccità Moderata 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [7]> <before the [Medieval era]>",
+        "Triggers a [Alluvione Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
+         "Triggers a [Siccità Moderata 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
          "Triggers a [Tempesta Devastante 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [10]> <before the [Medieval era]>",
          "Triggers a [Alluvione Locale 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Medieval era]> <before the [Industrial era]>",
          "Triggers a [Siccità Moderata 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Medieval era]> <before the [Industrial era]>",
@@ -81,10 +81,10 @@
          "Triggers a [Siccità Moderata 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Atomic era]>",
          "Triggers a [Tempesta Devastante 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Atomic era]>",
 		
-         "Triggers a [Invasione di Cavallette 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [7]> <before the [Medieval era]>",
-         "Triggers a [Grande Alluvione 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [7]> <before the [Medieval era]>",
-          "Triggers a [Epidemia Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [7]> <before the [Medieval era]>",
-          "Triggers a [Grande Siccità 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [7]> <before the [Medieval era]>",
+         "Triggers a [Invasione di Cavallette 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
+         "Triggers a [Grande Alluvione 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
+          "Triggers a [Epidemia Locale 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
+          "Triggers a [Grande Siccità 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
          "Triggers a [Invasione di Cavallette 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Medieval era]> <before the [Industrial era]>",
          "Triggers a [Grande Alluvione 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Medieval era]> <before the [Industrial era]>",
           "Triggers a [Epidemia Locale 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Medieval era]> <before the [Industrial era]>",
@@ -117,7 +117,7 @@
            "Triggers a [Pandemia da Laboratorio] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns> <starting from the [Modern era]>"
 
 		     // Eventi Politici ricorrenti
-    "Triggers a [Rivolta Politica 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <before the [Medieval era]>",
+    "Triggers a [Rivolta Politica 1-2] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <after turn number [9]> <before the [Medieval era]>",
     "Triggers a [Rivolta Politica 3-4] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Medieval era]> <before the [Industrial era]>",
 	"Triggers a [Rivolta Politica 5-6] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Industrial era]> <before the [Atomic era]>",
 	"Triggers a [Rivolta Politica 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Atomic era]>",
@@ -139,7 +139,7 @@
 	"Triggers a [Crisi di Successione 7-8] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [2] turns> <starting from the [Atomic era]>",
   
     // Eventi storici unici per era (invasioni e migrazioni)
-    "Triggers a [Migrazione Barbare] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <every [2] turns> <before the [Classical era]>",
+    "Triggers a [Migrazione Barbare] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <every [2] turns> <after turn number [9]> <before the [Classical era]>",
     "Triggers a [Invasione Barbarica] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Classical era]> <before the [Medieval era]>",
     "Triggers a [Invasione Vichinga] event <for [Major] Civilizations> <upon turn end> <with [3]% chance> <starting from the [Classical era]> <before the [Medieval era]>",
     "Triggers a [Invasione Mongola] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Medieval era]> <before the [Renaissance era]>",
